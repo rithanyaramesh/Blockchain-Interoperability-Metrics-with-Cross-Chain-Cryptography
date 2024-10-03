@@ -1,0 +1,113 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Dell\\OneDrive\\Documents\\HealthCare\\contracts\\AtomicSwap.sol": {
+      "lastModificationDate": 1727946593969,
+      "contentHash": "11fcdfa9b81eaed5af542a0e18d85a43",
+      "sourceName": "contracts/AtomicSwap.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AtomicSwap"
+      ]
+    },
+    "C:\\Users\\Dell\\OneDrive\\Documents\\HealthCare\\contracts\\HealthcareData.sol": {
+      "lastModificationDate": 1727946560680,
+      "contentHash": "1876aca04b12b86fe7f6e18694b766ae",
+      "sourceName": "contracts/HealthcareData.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HealthcareData"
+      ]
+    },
+    "C:\\Users\\Dell\\OneDrive\\Documents\\HealthCare\\contracts\\Lock.sol": {
+      "lastModificationDate": 1727945964269,
+      "contentHash": "101c00cb43bd6d4be9704e08c973d5ad",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
